@@ -1,2 +1,16 @@
-# Excel-Sales-Dashboard
-Performed data cleaning. Created pivot tables, KPIs, and slicers. Designed a dynamic dashboard for business insights.  Tools: Microsoft Excel   Skills: Data Analysis, Data Cleaning, Visualization, Reporting
+**Excel Sales & Finance Dashboard**
+
+This project analyzes sales and profit data using Microsoft Excel.
+
+**Features**
+1) Data Cleaning
+2) Pivot Tables
+3) KPIs
+4)  Interactive Dashboard
+5) Slicers
+
+**Tools**
+- Microsoft Excel
+
+**Outcome**
+Built a dashboard for business decision making.
